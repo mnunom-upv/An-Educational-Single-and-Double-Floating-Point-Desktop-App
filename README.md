@@ -7,6 +7,7 @@ Se reciben como entradas la representación Real o Hexadecimal de un número en 
 desglosa las operaciones intermedias, permitiendo al estudiante entender la mecánica detras de la representación de punto flotante. 
 
 #Desarrolladores:
+
 Christian Alejandro Saldaña-Calderón (Polytechnic University of Victoria)
 
 Irving Jael Martinez-Aguilar (Polytechnic University of Victoria)
@@ -19,8 +20,11 @@ Luis Antonio González-Castro (Polytechnic University of Victoria)
 
 
 #Coordinadores:
+
 Yahir Hernández-Mier (Polytechnic University of Victoria)
+
 Said Polanco-Martagón (Polytechnic University of Victoria)
+
 Marco Aurelio Nuño-Maganda (Polytechnic University of Victoria)
 
 #Herramientas desarolladas:
