@@ -1,4 +1,4 @@
-#Proyecto An-Educational-Single-and-Double-Floating-Point-Desktop-App 
+##Proyecto An-Educational-Single-and-Double-Floating-Point-Desktop-App 
 
 Este proyecto es una aplicación auxiliar en la docencia relacionada con Arquitectura de Computadoras, Estructura de Datos, 
 Matemáticas Discretas y otras asignaturas comunes en las carreras de Ingeniería en Tecnologías de la Información, 
